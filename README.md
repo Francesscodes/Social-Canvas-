@@ -2,7 +2,7 @@
 
 A command-line event management system built with Python and MySQL. 
 
-Social Canvas allows users to create, view, update, and delete events — with data persisted in a real MySQL database.
+Social Canvas allows users to create, view, update, and delete events with data persisted in a real MySQL database.
 
  Features
 
